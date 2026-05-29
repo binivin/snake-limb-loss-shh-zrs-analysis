@@ -1,0 +1,5 @@
+species,conserved,mutated,gap_disrupted,total_sites
+mus_musculus,7,0,1,8
+gallus_gallus,7,0,1,8
+anolis_carolinensis,5,2,1,8
+pseudonaja_textilis,1,1,6,8

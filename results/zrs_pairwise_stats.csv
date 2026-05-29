@@ -1,0 +1,11 @@
+species1,species2,alignment_length,matches,mismatches,gaps,comparable_sites,identity_alignment_%,identity_ungapped_%
+homo_sapiens,mus_musculus,1392,681,81,630,762,48.92,89.37
+homo_sapiens,gallus_gallus,1392,678,91,623,769,48.71,88.17
+homo_sapiens,anolis_carolinensis,1392,624,134,634,758,44.83,82.32
+homo_sapiens,pseudonaja_textilis,1392,398,175,819,573,28.59,69.46
+mus_musculus,gallus_gallus,1392,639,125,628,764,45.91,83.64
+mus_musculus,anolis_carolinensis,1392,595,158,639,753,42.74,79.02
+mus_musculus,pseudonaja_textilis,1392,386,180,826,566,27.73,68.2
+gallus_gallus,anolis_carolinensis,1392,670,108,614,778,48.13,86.12
+gallus_gallus,pseudonaja_textilis,1392,423,163,806,586,30.39,72.18
+anolis_carolinensis,pseudonaja_textilis,1392,428,164,800,592,30.75,72.3

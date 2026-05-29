@@ -1,0 +1,7 @@
+species,group,accession,sequence_length_aa
+Homo sapiens,Mammal,NP_000184.1,462
+Mus musculus,Mammal,NP_033196.1,437
+Gallus gallus,Bird,NP_990152.1,425
+Anolis carolinensis,Lizard,XP_003221976.1,427
+Python bivittatus,Snake,XP_007433256.1,426
+Protobothrops mucrosquamatus,Snake,XP_015688035.1,426

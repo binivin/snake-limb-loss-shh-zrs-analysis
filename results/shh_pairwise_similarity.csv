@@ -1,0 +1,16 @@
+species1,species2,similarity_%
+Homo sapiens,Mus musculus,88.74
+Homo sapiens,Gallus gallus,79.65
+Homo sapiens,Anolis carolinensis,77.92
+Homo sapiens,Python bivittatus,76.41
+Homo sapiens,Protobothrops mucrosquamatus,75.97
+Mus musculus,Gallus gallus,83.3
+Mus musculus,Anolis carolinensis,81.46
+Mus musculus,Python bivittatus,80.78
+Mus musculus,Protobothrops mucrosquamatus,79.63
+Gallus gallus,Anolis carolinensis,80.8
+Gallus gallus,Python bivittatus,81.92
+Gallus gallus,Protobothrops mucrosquamatus,81.46
+Anolis carolinensis,Python bivittatus,87.35
+Anolis carolinensis,Protobothrops mucrosquamatus,85.25
+Python bivittatus,Protobothrops mucrosquamatus,95.31
