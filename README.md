@@ -1,6 +1,20 @@
 # Snake Limb Loss: SHH Protein Conservation and ZRS Enhancer Motif Analysis
 
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/binivin/snake-shh-and-zrs-analysis)
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/binivin/exploring-snake-shh-and-zrs)
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-green)](#)
+
 This repository contains a small comparative genomics project on snake limb loss. The project asks whether snake limb reduction is more likely explained by changes in the **SHH protein-coding sequence** or by changes in a **non-coding regulatory enhancer**, especially the ZRS limb enhancer near *SHH*.
+
+## Live Kaggle version
+
+The Kaggle version provides a browser-based notebook and a public dataset page for viewing the analysis outputs more easily.
+
+- **Kaggle Dataset:** https://www.kaggle.com/datasets/binivin/snake-shh-and-zrs-analysis
+- **Kaggle Notebook:** https://www.kaggle.com/code/binivin/exploring-snake-shh-and-zrs
+
+Use the Kaggle notebook to view the tables, heatmaps, bar plots, and written interpretation directly in a browser.
 
 ## Research question
 
@@ -104,6 +118,12 @@ To reproduce the ZRS enhancer analysis:
 python src/download_zrs_alignment.py
 python src/scan_zrs_ets_motifs.py
 python src/visualize_results.py
+```
+
+For a quick browser-based reproduction, open the Kaggle notebook instead:
+
+```text
+https://www.kaggle.com/code/binivin/exploring-snake-shh-and-zrs
 ```
 
 ## Results
